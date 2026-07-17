@@ -56,11 +56,12 @@ It enables decision-makers to monitor business performance, identify sales trend
 
 # 📸 Dashboard Preview
 
-> Replace these images with screenshots from your dashboard.
 
 | Overview |
 |----------|
-| ![Dashboard](images/dashboard.png) |
+| ![Dashboard](Images/PR_2-1.png) |
+| ![Dashboard](Images/PR_2-2.png) |
+| ![Dashboard](Images/PR_2-3.png) |
 
 ---
 
@@ -131,10 +132,6 @@ Sales-Analytics-Dashboard/
 │   ├── dashboard.png
 │   ├── overview.png
 │   └── sales.png
-│
-├── dataset/
-│   └── sales_data.xlsx
-│
 └── README.md
 ```
 
@@ -171,7 +168,7 @@ The dashboard helps answer questions like:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Sales-Analytics-Dashboard.git
+git clone https://github.com/Pratik-Patil-AI/Hospital_Management_PR_2.git
 ```
 
 ### 2. Open
@@ -198,40 +195,6 @@ Refresh the data if required.
 - Power BI Service deployment
 - Mobile optimized report
 - Automated data refresh
-
----
-
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-
-2. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Commit changes
-
-```bash
-git commit -m "Added new feature"
-```
-
-4. Push changes
-
-```bash
-git push origin feature-name
-```
-
-5. Open a Pull Request
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
